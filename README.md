@@ -3,7 +3,7 @@ Put all the files in the same folder, then run Powershell with administrator pri
 
 
 
-## another way
+## Another way
 
 1. Open https://store.rg-adguard.net/
 2. Choose `PackageFamilyName`, search `Microsoft.WindowsStore_8wekyb3d8bbwe`, and download 5 files.
